@@ -19,27 +19,22 @@ Data Science student building practical tools across machine learning, data engi
 
 ## Selected projects
 
-### [Credit Risk Prediction System](https://github.com/Kaneki016/credit-risk-app)
-An application for assessing loan default risk with XGBoost and explaining predictions with SHAP. It supports individual and batch predictions, CSV imports, and a React interface.
+[![Credit Risk Prediction System: explainable machine learning with XGBoost, SHAP, and FastAPI](assets/cards/credit-risk.svg)](https://github.com/Kaneki016/credit-risk-app)
 
-**Python · FastAPI · XGBoost · SHAP · React**
+XGBoost risk predictions with SHAP explanations, CSV batch processing, and a React interface.
 
-### [LPPEH Registry Scraper](https://github.com/Kaneki016/lpeph-scraper)
-A resumable Python tool that collects and validates public firm records from Malaysia's LPPEH registry. It handles partial API responses, retries failed requests, and exports structured CSV data.
+[![LPPEH Registry Scraper: reliable public registry data collection in Python](assets/cards/lpeph-scraper.svg)](https://github.com/Kaneki016/lpeph-scraper)
 
-**Python · Data collection · CLI**
+A resumable Python CLI that validates registry responses, retries failures, and exports structured CSV data.
 
-### [LearnForge](https://github.com/Kaneki016/learnforge)
-An AI-assisted learning platform that turns a topic into a structured learning path and linked Obsidian notes, with practice exercises and spaced-repetition review.
+[![LearnForge: AI-generated learning paths and linked Obsidian notes](assets/cards/learnforge.svg)](https://github.com/Kaneki016/learnforge)
 
-**AI agents · Knowledge management · Web app**
+AI agents turn a topic into a learning path, connected notes, exercises, and spaced-repetition review.
 
-### [Tabme](https://github.com/Kaneki016/tab-me-agent)
-A browser-tab triage tool that suggests actions from open tabs and lets a person review them before anything is written. Built with a Chrome extension and a web review app.
+[![Tabme: human-reviewed browser tab triage](assets/cards/tabme.svg)](https://github.com/Kaneki016/tab-me-agent)
 
-**TypeScript · Next.js · Chrome extension**
+A Chrome extension and web app suggest actions from open tabs for human review before any write.
 
-### [Video Translator](https://github.com/Kaneki016/vdeo-translator)
-A web app for translating video content. [Try the live app](https://vdeo-translator.vercel.app/).
+[![Video Translator: a web app for translating video content](assets/cards/video-translator.svg)](https://github.com/Kaneki016/vdeo-translator)
 
-**TypeScript · Web app**
+Translate video content in a web app. [Try the live demo](https://vdeo-translator.vercel.app/).

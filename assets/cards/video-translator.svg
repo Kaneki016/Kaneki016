@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="Video Translator: Make video content easier to understand">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1526"/>
+      <stop offset="1" stop-color="#182744"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="188" rx="15" fill="url(#bg)" stroke="#2a4059" stroke-width="2"/>
+  <rect x="1" y="17" width="7" height="156" rx="3" fill="#f472b6"/>
+  <text x="35" y="39" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#f472b6">PROJECT 05  /  AI / MEDIA</text>
+  <text x="35" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#f5f8fc">Video Translator</text>
+  <text x="35" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#c4d5e5">Make video content easier to understand</text>
+  <text x="35" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8eabc1">TypeScript  /  Web app  /  Live demo</text>
+
+          <rect x="715" y="40" width="184" height="124" rx="12" fill="#20263d" stroke="#75516d" stroke-width="2"/>
+          <rect x="728" y="53" width="158" height="84" rx="5" fill="#372a49"/>
+          <circle cx="807" cy="95" r="26" fill="#f472b6" opacity=".9"/>
+          <path d="m800 80 21 15-21 15z" fill="#1b1b31"/>
+          <rect x="732" y="148" width="104" height="6" rx="3" fill="#f472b6"/>
+          <rect x="841" y="148" width="39" height="6" rx="3" fill="#7e7187"/>
+
+</svg>
